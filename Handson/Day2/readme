@@ -1,1 +1,4 @@
-
+# 1. Display Employee List and Edit Employee form using RESTful Web Service
+# 2. Create static employee list data using spring xml configuration
+# 3. Create REST service to gets all employees
+# 4. Create REST service for department
